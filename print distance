@@ -1,7 +1,7 @@
 {
-inches = microsecondsToInches(duration);
+inches = microsecondsToInches(duration);    //this is distance in inch
 
-cm = microsecondsToCentimeters(duration);
+cm = microsecondsToCentimeters(duration); //distance in cm
 
 Serial.print(inches);
 
