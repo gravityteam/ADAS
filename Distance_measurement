@@ -1,0 +1,7 @@
+// distance measurement with ulrasonic sensor
+const int trigPin = 2; 
+const int echoPin = 4;
+void setup() 
+{
+Serial.begin(9600);
+}
